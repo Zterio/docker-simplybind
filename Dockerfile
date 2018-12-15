@@ -1,7 +1,7 @@
 # Bind
 
 
-MAINTAINER Zterio <cZterio@i5.io>
+MAINTAINER Zterio <Zterio@i5.io>
 ENV HOME /root
 ENV LANG en_US.UTF-8
 RUN locale-gen en_US.UTF-8
